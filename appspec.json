@@ -1,0 +1,51 @@
+{
+  "settings": [],
+  "dependencies": {
+    "R": [
+      {
+        "name": "move"
+      },
+      {
+        "name": "foreach"
+      },
+      {
+        "name": "dplyr"
+      },
+      {
+        "name": "data.table"
+      },
+      {
+        "name": "lubridate"
+      }
+    ]
+  },
+  "license": {
+    "key": "MIT"
+  },
+  "language": "eng",
+  "keywords": [
+    "movebank",
+    "download",
+    "accelerometer"
+  ],
+  "people": [
+    {
+      "firstName": "Andrea",
+      "lastName": "Flack",
+      "email": "aflack@ab.mpg.de",
+      "roles": ["author"],
+      "orcid": null,
+      "affiliation": "Max-Planck-Institute of Animal Behavior",
+    }
+  ],
+  "reference": [
+    {
+      "type": "CommunicatesWith",
+      "note": "Movebank Data Base",
+      "url": "http://www.movebank.org"
+    }
+  ],
+  "documentation": {
+    "url": ""
+  }
+}
